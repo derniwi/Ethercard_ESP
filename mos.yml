@@ -1,0 +1,17 @@
+author: tectiv3
+type: lib
+description: Ethercard ESP32 lib
+version: 1.0
+
+sources:
+  - src
+
+libs:
+  - origin: https://github.com/tectiv3/arduino-spi
+
+tags:
+  - arduino
+  - c
+  - ethernet
+
+skeleton_version: 2017-05-18
